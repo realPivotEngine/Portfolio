@@ -15361,7 +15361,7 @@ var tabs = $.widget( "ui.tabs", {
 	_initialActive: function() {
 		var active = this.options.active,
 			collapsible = this.options.collapsible,
-			locationHash = location.hash.toString().substring( 1 );
+			locationHash = location.hash.substring( 1 );
 
 		if ( active === null ) {
 			// check the fragment identifier in the URL
