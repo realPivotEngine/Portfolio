@@ -1,4 +1,4 @@
-/*
+/*contact
 
 TemplateMo 548 Training Studio
 
@@ -125,7 +125,7 @@ body {
 }
 
 ::-moz-selection {
-  background: #b24aee;
+  background: #ffffff;
   color: #fff;
 }
 
@@ -191,7 +191,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #b24aee;
+  background-color: #ffffff;
 }
 
 
