@@ -191,7 +191,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #f9735b;
+  background-color: #b24aee;
 }
 
 
@@ -324,7 +324,7 @@ header
 }
 
 .header-area .main-nav .nav li:last-child a:hover {
-  background-color: #f9735b;
+  background-color: #b24aee;
   opacity: 1;
 }
 
@@ -788,7 +788,7 @@ Our Classes
   background-color: #b24aee;
 }
 #tabs .main-rounded-button a:hover {
-  background-color: #f9735b;
+  background-color: #b24aee;
 }
 #tabs ul li a img {
   max-width: 100%;
@@ -1072,7 +1072,7 @@ contact
 }
 
 .contact-form button:hover {
-  background-color: #f9735b;
+  background-color: #b24aee;
 }
 
 
