@@ -709,7 +709,7 @@ Our Classes
 #tabs ul li a {
   text-transform: capitalize;
   width: 80%;
-  height: 2px;
+  height: 1px;
   padding: 20px 5px;
   display: flex;
   justify-content: center;
