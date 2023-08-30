@@ -707,7 +707,7 @@ Our Classes
   width: 90%;
   height: 2px;
   padding: 20px 10px;
-  display: flex;
+  display: block;
   float: left;
   justify-content: center;
   align-items: center;
