@@ -707,7 +707,7 @@ Our Classes
   width: 90%;
   height: 2px;
   padding: 20px 10px;
-  display: block;
+  display: inline-block;
   background-color: #fff;
   box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
   border-radius: 5px;
