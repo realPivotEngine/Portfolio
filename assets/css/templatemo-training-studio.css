@@ -699,14 +699,14 @@ Our Classes
   padding: 0;
 }
 #tabs ul li {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   display: inline-block;
   width: 100%;
 }
 
 #tabs ul li a {
   text-transform: capitalize;
-  width: 90%;
+  width: 80%;
   height: 2px;
   padding: 20px 10px;
   display: flex;
