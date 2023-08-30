@@ -700,12 +700,6 @@ Our Classes
   justify-content: flex-start;
 }
 
-.col-lg-4 {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-}
-
 #tabs ul li {
   float: left;
   margin-bottom: 5px;
