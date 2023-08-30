@@ -702,9 +702,9 @@ Our Classes
 
 #tabs ul li {
   float: left;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   display: inline-block;
-  width: 100%;
+  width: 90%;
 }
 
 #tabs ul li a {
