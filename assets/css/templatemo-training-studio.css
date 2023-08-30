@@ -697,6 +697,7 @@ Our Classes
   float: left;
   margin: 0;
   padding: 0;
+  justify-content: flex-start;
 }
 #tabs ul li {
   margin-bottom: 10px;
