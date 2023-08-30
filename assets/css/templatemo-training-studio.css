@@ -703,6 +703,7 @@ Our Classes
 .col-lg-4 {
   display: flex;
   flex-wrap: wrap;
+  justify-content: flex-start;
 }
 
 #tabs ul li {
