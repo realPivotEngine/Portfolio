@@ -700,6 +700,7 @@ Our Classes
   justify-content: flex-start;
 }
 #tabs ul li {
+  float: left;
   margin-bottom: 5px;
   display: inline-block;
   width: 100%;
@@ -723,6 +724,7 @@ Our Classes
   font-weight: 600;
   transition: all 0.3s;
 }
+
 #tabs .main-rounded-button a {
   text-align: center;
   padding: 20px 30px;
