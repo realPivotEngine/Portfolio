@@ -708,6 +708,7 @@ Our Classes
   height: 2px;
   padding: 20px 10px;
   display: flex;
+  float: left;
   justify-content: center;
   align-items: center;
   background-color: #fff;
