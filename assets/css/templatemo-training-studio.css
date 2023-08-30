@@ -699,6 +699,12 @@ Our Classes
   padding: 0;
   justify-content: flex-start;
 }
+
+.col-lg-4 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 #tabs ul li {
   float: left;
   margin-bottom: 5px;
