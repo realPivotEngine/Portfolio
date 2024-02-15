@@ -13067,7 +13067,7 @@ var slider = $.widget( "ui.slider", $.ui.mouse, {
 			percentMouse = 0;
 		}
 		if ( this.orientation === "vertical" ) {
-			percentMouse = 1 - percentMouse;
+			percentMouse = 1- percentMouse;
 		}
 
 		valueTotal = this._valueMax() - this._valueMin();
